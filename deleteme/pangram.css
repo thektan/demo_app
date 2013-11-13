@@ -1,0 +1,47 @@
+#contain{
+    display: block;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin-top: 50px;
+}
+
+#pangram{
+    width: 600px;
+    height: 50px;
+    font-size: 32px;
+    margin-bottom: 25px;
+    margin-top: 25px;
+}
+
+.letter{
+    color: #212121;
+    background-color: #0080ce;
+    color: #f2f2f2;
+    text-align: center;
+    margin: 2px;
+    font-size: 32px;
+    font-family: monospace;
+    padding: 10px;
+    line-height: 65px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+}
+
+h1 {
+    font-family: monospace;
+    font-size: 50px;
+    color: #0080ce;
+}
+
+h2 {
+    font-family: monospace;
+    font-size: 30px;
+    color: #333333;
+}
+
+body {
+    font-family: monospace;
+    font-size: 14px;
+    color: #333333;
